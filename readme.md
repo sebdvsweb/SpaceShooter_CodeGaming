@@ -23,11 +23,11 @@ Tu peux voir le résultat final de ce projet **[ici](https://gd.games/alor_/code
 
 Les règles sont simples :
 
-- Détruis les ennemis et les météores, évite les météores et ramasse les power-ups. 💥
-- Tu peux contrôler le vaisseau avec les flèches du clavier et tirer avec la barre d'espace. 🕹️
-- Si tu sors de l'écran, c'est Game Over. 😵
-- Si tu touches un météore, c'est Game Over. 🌑
-- Si tu touches un ennemi, c'est Game Over. 👾
+Détruis les ennemis et les météores, évite les météores et ramasse les power-ups. 💥
+Tu peux contrôler le vaisseau avec les flèches du clavier et tirer avec la barre d'espace. 🕹️
+Si tu sors de l'écran, c'est Game Over. 😵
+Si tu touches un météore, c'est Game Over. 🌑
+Si tu touches un ennemi, c'est Game Over. 👾
 
 Bonne chance ! 🍀
 ![Space-shooter](image.png)
