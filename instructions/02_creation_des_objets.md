@@ -6,11 +6,11 @@ Maintenant que tu as GDevelop 5 prêt et configuré, il est temps de passer à l
 
 Voici les objets que tu dois positionner dans ta scène :
 
-_SpaceBackgroud_ : Cet objet est un fond d'écran qui va servir de décor à notre jeu. il faut qu'il couvre toute la scène. 🌌
+_Space Background_ : Cet objet est un fond d'écran qui va servir de décor à notre jeu. il faut qu'il couvre toute la scène. 🌌
 
-_Vaisseau du joueur_ : Glisse-dépose l'objet "PlayerShip" dans ta scène. Tu peux le positionner où tu veux, mais pour l'instant, place-le a gauche. Si tu clique sur l'objet, tu verras dans le paneau a gauche qu'il a une propriété "Angle" qui est réglée à 0. Change cette valeur pour la mettre à 90. Cela va faire en sorte que le vaisseau soit orienté vers la droite. 🚀
+_SpaceShip_ : Glisse-dépose l'objet "Space Ship" dans ta scène. Tu peux le positionner où tu veux, mais pour l'instant, place-le a gauche. Si tu clique sur l'objet, tu verras dans le paneau a gauche qu'il a une propriété "Angle" qui est réglée à 0. Change cette valeur pour la mettre à 90. Cela va faire en sorte que le vaisseau soit orienté vers la droite. 🚀
 
-_Ennemi_ : Glisse-dépose l'objet "EnemyShip" dans ta scène. Tu peux le positionner où tu veux, mais pour l'instant, place-le a droite. 👾
+_Ennemi_ : Glisse-dépose l'objet "Squid Space Enymy" dans ta scène. Tu peux le positionner où tu veux, mais pour l'instant, place-le a droite. 👾
 
 ![positionement](images/positionement.png)
 
@@ -20,7 +20,11 @@ Super, tu as positionné tous les objets de ta scène. Mais il reste encore quel
 
 **randomPower** : Cette variable est un nombre. Mettons sa valeur à 0 pour le moment. Cette variable va nous permettre de conditionner plus tard les power-up du vaisseau. 🛸
 
-**enemyShip** : Cette variable est une structure qui a une sous-variable "health" qui est un nombre. Cette variable va nous permettre de savoir combien de points de vie il reste à l'ennemi. Régle la valeur de cette variable à 5. 💔
+3. **Création des variables d'objets** :
+
+**life** : Cette variable de type Nombre est à appliquer à notre ennemi. Cette variable va nous permettre de savoir combien de points de vie il reste à l'ennemi. Régle la valeur de cette variable à 5. 💔
+
+**powerUp** : Cette variable de type booléen est à appliquer à notre Space Ship. Cette variable va nous permettre plus tard de savoir si notre vaisseau a son power up activé ou non. 🛸
 
 ![variables](images/variables.png)
 
