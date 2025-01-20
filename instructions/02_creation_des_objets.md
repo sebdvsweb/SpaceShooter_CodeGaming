@@ -18,7 +18,7 @@ Super, tu as positionné tous les objets de ta scène. Mais il reste encore quel
 
 2. **Création des variables de scène** : Pour ce jeu, nous allons avoir besoin de plusieurs variables de scène. Ces variables vont nous aider à gérer le comportement de nos objets. Clique en haut à droite sur ouvrir les réglages, puis dans Modifier les variables de la scène. Clique sur le bouton "Ajouter une variable" et ajoute les variables suivantes :
 
-**mainShip** : Cette variable est une structure qui a une sous-variable "powerUp" qui est un booléen. Cette variable va nous permettre de savoir si le vaisseau du joueur a un power-up ou non. 🛸
+**randomPower** : Cette variable est un nombre. Mettons sa valeur à 0 pour le moment. Cette variable va nous permettre de conditionner plus tard les power-up du vaisseau. 🛸
 
 **enemyShip** : Cette variable est une structure qui a une sous-variable "health" qui est un nombre. Cette variable va nous permettre de savoir combien de points de vie il reste à l'ennemi. Régle la valeur de cette variable à 5. 💔
 
