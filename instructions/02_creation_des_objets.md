@@ -20,6 +20,8 @@ Super, tu as positionné tous les objets de ta scène. Mais il reste encore quel
 
 **randomPower** : Cette variable est un nombre. Mettons sa valeur à 0 pour le moment. Cette variable va nous permettre de conditionner plus tard les power-up du vaisseau. 🛸
 
+![random](images/randomPower.png)
+
 3. **Création des variables d'objets** :
 
 **Life** : Cette variable de type Nombre est à appliquer à notre ennemi. Cette variable va nous permettre de savoir combien de points de vie il reste à l'ennemi. Règle la valeur de cette variable à 5. 💔
