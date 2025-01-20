@@ -6,6 +6,8 @@ On va corser un peu les choses en ajoutant des météores qui vont venir de la d
 
 1. Ajoute une nouvelle structure dans les variables de scène. Nomme-la "meteor" et ajoute deux sous-variables "meteorMax" et "meteorNumber" qui sont des nombres. La première va nous permettre de définir le nombre maximum de météores qui peuvent être présents à l'écran et la deuxième va nous permettre de compter le nombre de météores présents à l'écran.
 
+![meteor](images/meteor.png)
+
 2. Ajoute une condition qui vérifie si le nombre de météores présents à l'écran est inférieur au nombre maximum de météores. Si c'est le cas, ajoute une action qui crée un objet "Meteor" à une position aléatoire sur l'axe Y et qui ajoute 1 à la variable "meteorNumber".
 
 3. Ajoute un mur tout à gauche en dehors de la scène. Ajoute une condition qui vérifie si un météore est en collision avec ce mur. Si c'est le cas, ajoute une action qui supprime le météore et soustrait 1 à la variable "meteorNumber".
