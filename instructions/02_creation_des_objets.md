@@ -26,6 +26,4 @@ Super, tu as positionné tous les objets de ta scène. Mais il reste encore quel
 
 **powerUp** : Cette variable de type booléen est à appliquer à notre Space Ship. Cette variable va nous permettre plus tard de savoir si notre vaisseau a son power up activé ou non. 🛸
 
-![variables](images/variables.png)
-
 Et voilà, tu as de quoi commencer à jouer ! N'est-ce pas génial de voir ton jeu prendre forme ? Mais ne t'arrête pas là, il reste encore beaucoup à faire. Alors, prêt à programmer le comportement de ces objets ? Allez, c'est parti ! Direction [la prochaine partie](03_programmation_comportements.md) ! 🎉
