@@ -38,6 +38,8 @@ Super, le vaisseau peut maintenant tirer des projectiles. Mais il ne peut pas en
 
 ## Comportement des ennemis
 
+**_Tu peux importer plusieurs type d'ennemis sur ta scène, et les réunir dans un groupe d'objets pour leur appliquer le même code_**
+
 Pour l'instant, nous allons juste dire que si un ennemi a ses points de vie à zéro, il est supprimé.
 
 Ajoute une condition qui vérifie si la variable "health" de l'ennemi est inférieure ou égale à 0. Si c'est le cas, ajoute une action qui supprime l'ennemi.
