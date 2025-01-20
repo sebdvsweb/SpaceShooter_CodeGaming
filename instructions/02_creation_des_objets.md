@@ -10,7 +10,7 @@ _Space Background_ : Cet objet est un fond d'écran qui va servir de décor à n
 
 _SpaceShip_ : Glisse-dépose l'objet "Space Ship" dans ta scène. Tu peux le positionner où tu veux, mais pour l'instant, place-le a gauche. Si tu clique sur l'objet, tu verras dans le paneau a gauche qu'il a une propriété "Angle" qui est réglée à 0. Change cette valeur pour la mettre à 90. Cela va faire en sorte que le vaisseau soit orienté vers la droite. 🚀
 
-_Ennemi_ : Glisse-dépose l'objet "Squid Space Enymy" dans ta scène. Tu peux le positionner où tu veux, mais pour l'instant, place-le a droite. 👾
+_Ennemi_ : Glisse-dépose l'objet "Squid Space Enemy" dans ta scène. Tu peux le positionner où tu veux, mais pour l'instant, place-le a droite. 👾
 
 ![positionement](images/positionement.png)
 
@@ -22,8 +22,8 @@ Super, tu as positionné tous les objets de ta scène. Mais il reste encore quel
 
 3. **Création des variables d'objets** :
 
-**life** : Cette variable de type Nombre est à appliquer à notre ennemi. Cette variable va nous permettre de savoir combien de points de vie il reste à l'ennemi. Régle la valeur de cette variable à 5. 💔
+**life** : Cette variable de type Nombre est à appliquer à notre ennemi. Cette variable va nous permettre de savoir combien de points de vie il reste à l'ennemi. Règle la valeur de cette variable à 5. 💔
 
-**powerUp** : Cette variable de type booléen est à appliquer à notre Space Ship. Cette variable va nous permettre plus tard de savoir si notre vaisseau a son power up activé ou non. 🛸
+**powerUp** : Cette variable de type booléen est à appliquer à notre _Space Ship_. Cette variable va nous permettre plus tard de savoir si notre vaisseau a son power up activé ou non. 🛸
 
 Et voilà, tu as de quoi commencer à jouer ! N'est-ce pas génial de voir ton jeu prendre forme ? Mais ne t'arrête pas là, il reste encore beaucoup à faire. Alors, prêt à programmer le comportement de ces objets ? Allez, c'est parti ! Direction [la prochaine partie](03_programmation_comportements.md) ! 🎉
